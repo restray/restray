@@ -8,7 +8,7 @@ I'm Restray, or Timothée if you prefer!
 
 ### ⏱️ I'm in a hurry, who are you?
 
-<a href="https://app.daily.dev/restray"><img src="https://api.daily.dev/devcards/df18edc275d64205bdebcc2bdfb27ae1.png?r=yyq" width="200" alt="Restray's Dev Card"/></a> <img align="right" src="https://github-readme-stats.vercel.app/api?username=restray&count_private=true" width="600" alt="Restray's Dev Card"/>
+<a href="https://app.daily.dev/restray"><img src="https://api.daily.dev/devcards/df18edc275d64205bdebcc2bdfb27ae1.png?r=yyq" width="200" alt="Restray's Dev Card"/></a> <img align="right" src="https://github-readme-stats.vercel.app/api?username=restray&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" width="600" alt="Restray's Dev Card"/>
 
 ---
 
@@ -19,6 +19,8 @@ I'm Restray, or Timothée if you prefer!
 - 🌱 I’m currently learning Golang, OpenSource Contribution and Docker's stuff (like Portainer...)
 - 👯 I’m looking to collaborate on a cool and recent project (don't be afraid to DM me!)
 - 📫 Contact me with: [contact@restray.org](mailto:contact@restray.org)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=restray&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true)
 
 #### My Web Knowledges
 
