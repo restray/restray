@@ -18,7 +18,7 @@ I'm Restray, or Timothée if you prefer!
 - 🔭 I’m currently working on [@qbcore-framework](https://github.com/qbcore-framework) and [Coolify](https://github.com/coollabsio/coolify)
 - 🌱 I’m currently learning Golang, OpenSource Contribution and Docker's stuff (like Portainer...)
 - 👯 I’m looking to collaborate on a cool and recent project (don't be afraid to DM me!)
-- 📫 Contact me with: [contact@restray.org](mailto:contact@restray.org)
+- 📫 Contact me at: [contact@restray.org](mailto:contact@restray.org)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=restray&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true)
 
