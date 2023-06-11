@@ -15,7 +15,6 @@ I'm Restray, or Timothée if you prefer!
 ### 🧑‍💻 Who am I ?
 
 - 🇫🇷 Living in Paris, France 🥖
-- 🔭 I’m currently working on [ftcli](https://github.com/restray/42cmd) (a Github CLI like, for my school!) 
 - 🌱 I’m currently learning Golang, OpenSource Contribution and Docker's stuff (like Portainer...)
 - 👯 I’m looking to collaborate on a cool and recent project (don't be afraid to DM me!)
 - 📫 Contact me at: [contact@restray.org](mailto:contact@restray.org)
